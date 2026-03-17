@@ -83,10 +83,14 @@ Docker • CI/CD • AWS • GCP • Kafka • PySpark
 
 ## 🌐 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/nirmal-ayappan-v-39504024a
-- 🌍 Portfolio: https://nxrmal-portfolio.vercel.app/
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/nirmal-ayyappan-v-39504024a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nirmal%20Ayyappan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://nxrmal-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" />
+  </a>
+</p>
 
 ## ⚡ What I'm Building
 
