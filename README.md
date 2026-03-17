@@ -31,13 +31,16 @@ AI Full-Stack Engineer • GenAI • RAG • Agentic Systems
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://codepen.io/">
-    <img src="https://img.shields.io/badge/CODEPEN-FFFFFF?style=for-the-badge&logo=codepen&logoColor=black" />
+  <a href="https://github.com/nxrmal03">
+    <img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/TWITTER-FFFFFF?style=for-the-badge&logo=twitter&logoColor=black" />
+  <a href="https://nxrmal-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/40_nirmal71332">
+    <img src="https://img.shields.io/badge/TWITTER-FFFFFF?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/nirmal-ayyappan-v-39504024a/">
-    <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge" />
   </a>
 </p>
