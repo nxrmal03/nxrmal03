@@ -1,109 +1,38 @@
-<h1 align="center">Hi 👋, I'm Nirmal</h1>
-<h3 align="center">AI Full-Stack Engineer | GenAI • RAG • Agentic Systems</h3>
+<h1 align="center">Hey there 👋, Nirmal here!</h1>
+
+<p align="center">
+AI Full-Stack Engineer • GenAI • RAG • Agentic Systems
+</p>
 
 ---
 
-## 🚀 About Me
-- 🧠 Building **production-grade AI systems using LLMs**
-- ⚡ Specialized in **RAG pipelines, LangChain & agent workflows**
-- 🔧 Strong in **FastAPI + React full-stack architecture**
-- 📍 Chennai, India
+## 🧑‍💻 About Me
+
+- 📍 Based in Chennai, India  
+- 🧠 Building AI-powered applications using LLMs  
+- 🚀 Focused on RAG, LangChain & scalable systems  
+- 💼 Open to collaborating on AI + Full-stack projects  
 
 ---
 
-## 🧠 Core Expertise
+## 🛠️ Skills
 
-- Generative AI (LLMs, RAG, Prompt Engineering)
-- Agentic AI Systems (LangGraph workflows)
-- Vector Search (Pinecone, ChromaDB)
-- Scalable Backend Systems (FastAPI)
-- Full-Stack Development (React, Next.js)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,fastapi,nodejs,mongodb,postgres,mysql,docker" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-React • Next.js • Tailwind CSS  
-
-### ⚙️ Backend
-FastAPI • Node.js • Express  
-
-### 🤖 AI / ML
-LangChain • LangGraph • RAG Pipelines  
-Prompt Engineering • Stable Diffusion  
-
-### 🗄️ Databases
-PostgreSQL • MongoDB • Vector DBs  
-
-### ☁️ DevOps & Tools
-Docker • CI/CD • AWS • GCP • Kafka • PySpark  
-
----
-
-## 🚀 Featured AI Projects
-
-### 🧾 LoanDoc AI
-> AI-powered document assistant with RAG + agentic reasoning  
-- Built using FastAPI + React + LangChain + LangGraph  
-- Semantic retrieval with vector DB  
-- Source-grounded responses for loan documents  
-
----
-
-### ⚖️ LegalQuery AI
-> AI legal assistant for querying acts & regulations  
-- RAG-enhanced document retrieval  
-- Agent-based reasoning for legal interpretation  
-- Scalable ingestion pipelines for large datasets  
-
----
-
-### 🧏 Speech-to-Sign Translation
-> Real-time accessibility system using AI  
-- Multimodal processing (speech → sign)  
-- Built with deep learning + real-time pipelines  
-
----
-
-## 💼 Experience
-
-### 🏢 HashedIn by Deloitte (Software Engineering Intern)
-- Built **FastAPI-based AI applications in production pipelines**
-- Worked on **LLM architectures & scalable backend systems**
-- Collaborated in **Agile + enterprise workflows**
-
----
-
-### 🏢 Vectra Technosoft
-- Linux systems + deployment automation  
-- CI/CD and infrastructure fundamentals  
-
----
-
-## 🌐 Connect
+## 🔗 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nirmal-ayyappan-v-39504024a/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Professional%20Profile-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://nxrmal-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-Personal%20Website-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Live-0f172a?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-</p>
-
-## ⚡ What I'm Building
-
-- AI-powered SaaS applications  
-- RAG-based intelligent systems  
-- Agentic workflows using LangGraph  
-- Scalable backend systems with FastAPI  
-
----
-
-<p align="center">
-  ⭐ Building intelligent systems that solve real-world problems
 </p>
