@@ -81,15 +81,6 @@ Docker • CI/CD • AWS • GCP • Kafka • PySpark
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nxrmal03&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxrmal03&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/nirmal-ayappan-v-39504024a
@@ -97,10 +88,12 @@ Docker • CI/CD • AWS • GCP • Kafka • PySpark
 
 ---
 
-## ⚡ Current Focus
-- Building **AI SaaS products**
-- Designing **agent-based systems**
-- Scaling **LLM applications to production**
+## ⚡ What I'm Building
+
+- AI-powered SaaS applications  
+- RAG-based intelligent systems  
+- Agentic workflows using LangGraph  
+- Scalable backend systems with FastAPI  
 
 ---
 
