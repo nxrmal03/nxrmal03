@@ -25,9 +25,8 @@ AI Full-Stack Engineer • GenAI • RAG • Agentic Systems
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxrmal03&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxrmal03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 
 ## 🔗 Connect
 
