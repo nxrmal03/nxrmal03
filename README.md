@@ -85,10 +85,13 @@ Docker • CI/CD • AWS • GCP • Kafka • PySpark
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nirmal-ayyappan-v-39504024a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nirmal%20Ayyappan-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Nirmal%20Ayyappan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://nxrmal-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
